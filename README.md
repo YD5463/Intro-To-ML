@@ -1,4 +1,4 @@
-# Vision and synoecize detection
+# Vision and synchronized detection
 
 
 
@@ -10,14 +10,15 @@
 
 | model name                    | score without PCA | score with PCA |
 | ----------------------------- | ----------------- | -------------- |
-| Naive Bayes(Gaussian)         |                   |                |
+| Naive Bayes(Gaussian)         | 58%               | 74%            |
 | Adaboost with SVC             |                   |                |
-| Random Forest                 |                   |                |
-| K Means(unsupervised)         |                   |                |
-| Decision Tree                 |                   |                |
+| Random Forest                 |                   | 76%            |
+| K Means(unsupervised)         | 78%               | 78%            |
+| Decision Tree                 | 81%               | 76%            |
 | SVC                           |                   |                |
 | neural network(Sequential)    |                   | 84%            |
 | Sequential with layers change |                   | 90%            |
+| xgboost                       |                   | 90%            |
 
 
 
