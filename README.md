@@ -1,4 +1,6 @@
-# Vision and synchronized detection
+# Vision & Hand State Detection
+
+
 
 
 
