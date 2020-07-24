@@ -9,7 +9,7 @@ This project came to summarize the concepts we learn over this semester.
 
 
 
-## Part A:
+## *Part A:*
 
 In this part we take the Fashion Mnist dataset and use dimensionality reduction techniques like PCA and SVD
 
@@ -25,7 +25,7 @@ Note: As A bonus we use conventional neural network
 
 
 
-##### Using machine learning regular model:
+##### *Using machine learning regular model:*
 
 
 
@@ -39,7 +39,7 @@ Note: As A bonus we use conventional neural network
 
 
 
-##### Using ensemble learning:
+##### *Using ensemble learning:*
 
 
 
@@ -51,7 +51,7 @@ Note: As A bonus we use conventional neural network
 
 
 
-##### Using deep learning:
+##### *Using deep learning:*
 
 
 
@@ -64,7 +64,7 @@ Note: As A bonus we use conventional neural network
 
 
 
-## Part B:
+## *Part B:*
 
 In this part we have dataset with hands motion sensor recording we our task is to classify the type of the hands moving:
 
@@ -95,16 +95,22 @@ The features we get from the sensor is:
 
 
 
-### The Results
+### *The Results*
 
 
 
-| Model Name            | Validation Score |      |
-| --------------------- | ---------------- | ---- |
-| K Nearest Neighbors   | 88%              |      |
-| Sequential Neural Net | 79%              |      |
-| XgBoost               | 72%              |      |
-| Adaptive Boosting     |                  |      |
-| Random Forest         | 95%              |      |
-|                       |                  |      |
+| Model Name            | Validation Score |
+| --------------------- | ---------------- |
+| K Nearest Neighbors   | 88%              |
+| Sequential Neural Net | 79%              |
+| XgBoost               | 100%             |
+| Adaptive Boosting     | 74%              |
+| Random Forest         | 95%              |
+| Decision Tree         | 94%              |
+
+
+
+**By**: *Yosef Danan*
+
+**Really Cool Project!**
 
