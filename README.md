@@ -110,6 +110,21 @@ The features we get from the sensor is:
 
 
 
+## Sources
+
+- [Intro to data science - washington university](https://www.youtube.com/playlist?list=PLMrJAkhIeNNQV7wi9r7Kut8liLFMWQOXn) - svd part
+- [Intro to Machine Learning - fastai](https://www.youtube.com/watch?v=CzdWqFTmn0Y&list=PLfYUBJiXbdtSyktd8A_x0JNd6lxDcZE96) - parts
+- [Relationship between svd and pca](https://stats.stackexchange.com/questions/134282/relationship-between-svd-and-pca-how-to-use-svd-to-perform-pca) 
+- [Why xgboost so good](https://medium.com/analytics-vidhya/what-makes-xgboost-so-extreme-e1544a4433bb)
+- [Ensemble methods](https://towardsdatascience.com/ensemble-methods-bagging-boosting-and-stacking-c9214a10a205)
+- [ML approaches for time series](https://towardsdatascience.com/ml-approaches-for-time-series-4d44722e48fe)
+- [Git](https://missing.csail.mit.edu/2020/version-control/)
+- [Fast.ai course - Practical Deep Learning for Coders](https://www.youtube.com/watch?v=Th_ckFbc6bI&list=PLCdvEQLhYkYm1y0Ufn1FvmfL5pDpadkZN)-just the begin
+- [Udacity Course](https://classroom.udacity.com/courses/ud262)
+- [Gradient Descent](https://www.youtube.com/watch?v=sDv4f4s2SB8)
+
+and other from stack exchange and stack overflow...
+
 **By**: *Yosef Danan*
 
 **Really Cool Project!**
