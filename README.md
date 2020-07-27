@@ -3,7 +3,7 @@
 This project came to summarize the concepts we learn over this semester.
 
 - Unsupervised Machine learning models
-- Model Based on Boosting technique
+- Model Based on Boosting and Bagging technique
 - Dimensionality reduction technique
 - Pandas version 1.0
 
