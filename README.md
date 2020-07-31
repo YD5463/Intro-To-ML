@@ -104,7 +104,7 @@ The features we get from the sensor is:
 | K Nearest Neighbors   | 88%              |
 | Sequential Neural Net | 79%              |
 | XgBoost               | 100%             |
-| Adaptive Boosting     | 74%              |
+| Adaptive Boosting     | 99%              |
 | Random Forest         | 95%              |
 | Decision Tree         | 94%              |
 
@@ -123,7 +123,7 @@ The features we get from the sensor is:
 - [Udacity Course](https://classroom.udacity.com/courses/ud262)
 - [Gradient Descent](https://www.youtube.com/watch?v=sDv4f4s2SB8)
 
-and other from stack exchange and stack overflow...
+and other from medium,towards data science...
 
 **By**: *Yosef Danan*
 
